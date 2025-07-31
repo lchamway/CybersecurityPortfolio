@@ -11,7 +11,7 @@ Our records indicate that as of today, you still have an unpaid traffic ticket. 
 
 Pay now:
 
-https://txdmv[.]com-izxs[.]men/pay
+```hxxps://txdmv.com-izxs.men/pay```
 
 Please pay immediately, before enforcement occurs, to avoid license suspension and further legal complications.
 
